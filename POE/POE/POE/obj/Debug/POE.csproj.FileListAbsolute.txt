@@ -1,0 +1,54 @@
+E:\GADE\POE\POE\POE\bin\Debug\POE.exe.config
+E:\GADE\POE\POE\POE\bin\Debug\POE.exe
+E:\GADE\POE\POE\POE\bin\Debug\POE.pdb
+E:\GADE\POE\POE\POE\obj\Debug\POE.csprojResolveAssemblyReference.cache
+E:\GADE\POE\POE\POE\obj\Debug\POE.Form1.resources
+E:\GADE\POE\POE\POE\obj\Debug\POE.Properties.Resources.resources
+E:\GADE\POE\POE\POE\obj\Debug\POE.csproj.GenerateResource.Cache
+E:\GADE\POE\POE\POE\obj\Debug\POE.exe
+E:\GADE\POE\POE\POE\obj\Debug\POE.pdb
+E:\University\POE\POE\POE\bin\Debug\POE.exe.config
+E:\University\POE\POE\POE\obj\Debug\POE.exe
+E:\University\POE\POE\POE\obj\Debug\POE.pdb
+E:\University\POE\POE\POE\bin\Debug\POE.exe
+E:\University\POE\POE\POE\bin\Debug\POE.pdb
+E:\University\POE\POE\POE\obj\Debug\POE.csprojResolveAssemblyReference.cache
+E:\University\POE\POE\POE\obj\Debug\POE.Form1.resources
+E:\University\POE\POE\POE\obj\Debug\POE.Properties.Resources.resources
+E:\University\POE\POE\POE\obj\Debug\POE.csproj.GenerateResource.Cache
+E:\18013243 GADE POE\POE\POE\POE\bin\Debug\POE.exe.config
+E:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.exe
+E:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.pdb
+E:\18013243 GADE POE\POE\POE\POE\bin\Debug\POE.exe
+E:\18013243 GADE POE\POE\POE\POE\bin\Debug\POE.pdb
+E:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.csprojResolveAssemblyReference.cache
+E:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.Form1.resources
+E:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.Properties.Resources.resources
+E:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.csproj.GenerateResource.Cache
+G:\18013243 GADE POE\POE\POE\POE\bin\Debug\POE.exe.config
+G:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.exe
+G:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.pdb
+G:\18013243 GADE POE\POE\POE\POE\bin\Debug\POE.exe
+G:\18013243 GADE POE\POE\POE\POE\bin\Debug\POE.pdb
+G:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.csprojResolveAssemblyReference.cache
+G:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.Form1.resources
+G:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.Properties.Resources.resources
+G:\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.csproj.GenerateResource.Cache
+D:\University\GADE\18013243 GADE POE\POE\POE\POE\bin\Debug\POE.exe.config
+D:\University\GADE\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.exe
+D:\University\GADE\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.pdb
+D:\University\GADE\18013243 GADE POE\POE\POE\POE\bin\Debug\POE.exe
+D:\University\GADE\18013243 GADE POE\POE\POE\POE\bin\Debug\POE.pdb
+D:\University\GADE\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.csprojResolveAssemblyReference.cache
+D:\University\GADE\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.Form1.resources
+D:\University\GADE\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.Properties.Resources.resources
+D:\University\GADE\18013243 GADE POE\POE\POE\POE\obj\Debug\POE.csproj.GenerateResource.Cache
+E:\POE\POE\POE\bin\Debug\POE.exe.config
+E:\POE\POE\POE\obj\Debug\POE.exe
+E:\POE\POE\POE\obj\Debug\POE.pdb
+E:\POE\POE\POE\bin\Debug\POE.exe
+E:\POE\POE\POE\bin\Debug\POE.pdb
+E:\POE\POE\POE\obj\Debug\POE.csprojResolveAssemblyReference.cache
+E:\POE\POE\POE\obj\Debug\POE.Form1.resources
+E:\POE\POE\POE\obj\Debug\POE.Properties.Resources.resources
+E:\POE\POE\POE\obj\Debug\POE.csproj.GenerateResource.Cache
